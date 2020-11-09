@@ -37,7 +37,7 @@ public class Validation {
 	 {
 	            System.out.println("Enter your age");
 	            age=sc.nextInt();
-	                 if(age<0 || age>99)
+	                 if(age<15 || age>99)
 	                    {
 	                       System.out.println("Given Age is not valid!!");
 	                       
