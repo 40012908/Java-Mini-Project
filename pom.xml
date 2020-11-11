@@ -30,7 +30,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        SystemRunner
+                                        UserApp
                                     </mainClass>
                                 </manifest>
                             </archive>
